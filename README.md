@@ -6,4 +6,4 @@ Compilation of different algorithms
 	binaryTarget(arr, 0, 7, 9);<br/>
 	binaryTarget(arr, 0, 7, 6); <br/>
 	binaryTarget(arr, 0, 7, 10); <br/>
-2. Fibonacci exe gets 10 fibonacci values, it uses recursion funcion. <br/>
+2. Fibonacci exe gets 10 fibonacci values, it uses recursive funcion. <br/>
